@@ -14,3 +14,20 @@
  cd ~user_name Changes the working directory to the home directory of
  user_name. For example, cd ~bob will change the directory to
  the home directory of user “bob.”
+
+ 3 – Exploring the System
+Now that we know how to move around the file system, it's time for a guided tour of our
+Linux system. Before we start however, we’re going to learn some more commands that
+will be useful along the way.
+● ls – List directory contents
+● file – Determine file type
+● less – View file contents 
+
+4 – Manipulating Files and Directories
+At this point, we are ready for some real work! This chapter will introduce the following
+commands:
+● cp – Copy files and directories
+● mv – Move/rename files and directories
+● mkdir – Create directories
+● rm – Remove files and directories
+● ln – Create hard and symbolic links
