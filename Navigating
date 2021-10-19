@@ -1,0 +1,14 @@
+● pwd – Print name of current working directory
+● cd – Change directory
+● ls – List directory contents
+
+Some Helpful Shortcuts
+In Table 2-1 we see some useful ways the current working directory can be quickly
+changed.
+Table 2-1: cd Shortcuts
+Shortcut Result
+cd Changes the working directory to your home directory.
+cd - Changes the working directory to the previous working directory.
+cd ~user_name Changes the working directory to the home directory of
+user_name. For example, cd ~bob will change the directory to
+the home directory of user “bob.”
